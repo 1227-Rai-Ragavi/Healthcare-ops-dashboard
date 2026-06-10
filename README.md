@@ -36,20 +36,9 @@ DAX measures: `Total Encounters`, `Avg Duration (min)`, `Unique Patients`
 
 ---
 
-## Build steps
-
-```bash
-pip install pandas numpy
-python generate_dataset.py
-# Then open Power BI Desktop and load the 4 CSVs
-```
-
----
-
 ## Tools & skills
 
 - **Power BI Desktop** — data modeling, DAX, report design  
-- **Python** (pandas, numpy) — synthetic data generation  
 - **Git / GitHub** — version control, portfolio publishing  
 
 ---
