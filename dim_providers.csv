@@ -1,0 +1,43 @@
+provider_id,provider_name,npi,specialty,department,location_id,location_name,years_experience,fte
+PRV001,"Dr. Christopher Hernandez, MD",1858597918,Family Medicine,Primary Care,LOC4,Riverside Community Health,3,0.6
+PRV002,"Dr. Thomas Harris, NP",1717477276,Pediatrics,Primary Care,LOC1,Downtown Medical Center,26,0.8
+PRV003,"Dr. Joseph Wilson, MD",1182549636,Internal Medicine,Primary Care,LOC4,Riverside Community Health,30,0.6
+PRV004,"Dr. Anthony Anderson, MD",1450459552,Obstetrics & Gynecology,Women's Health,LOC2,Westside Family Clinic,8,1.0
+PRV005,"Dr. Robert Perez, NP",1631664398,Emergency Medicine,Emergency,LOC4,Riverside Community Health,6,0.6
+PRV006,"Dr. Robert Harris, MD",1893121120,Psychiatry,Behavioral Health,LOC2,Westside Family Clinic,22,0.6
+PRV007,"Dr. Barbara Lopez, MD",1043803765,Psychiatry,Behavioral Health,LOC1,Downtown Medical Center,18,1.0
+PRV008,"Dr. Wei Jackson, MD",1967509731,Psychiatry,Behavioral Health,LOC3,North Pavilion Outpatient,14,1.0
+PRV009,"Dr. Robert Lopez, NP",1189471358,General Surgery,Surgery,LOC2,Westside Family Clinic,15,1.0
+PRV010,"Dr. William Garcia, DO",1669813993,Obstetrics & Gynecology,Women's Health,LOC2,Westside Family Clinic,31,1.0
+PRV011,"Dr. Christopher Moore, MD",1767843913,Internal Medicine,Primary Care,LOC4,Riverside Community Health,27,1.0
+PRV012,"Dr. Richard Thompson, MD",1682495503,Radiology,Diagnostic Imaging,LOC4,Riverside Community Health,21,1.0
+PRV013,"Dr. Margaret Smith, NP",1786924376,Radiology,Diagnostic Imaging,LOC1,Downtown Medical Center,25,0.8
+PRV014,"Dr. David Martin, DO",1458915774,Orthopedics,Orthopedics,LOC3,North Pavilion Outpatient,17,0.8
+PRV015,"Dr. Linda Williams, MD",1654428859,Family Medicine,Primary Care,LOC1,Downtown Medical Center,16,0.5
+PRV016,"Dr. Matthew Anderson, DO",1565373324,Emergency Medicine,Emergency,LOC1,Downtown Medical Center,18,1.0
+PRV017,"Dr. Elizabeth Thomas, MD",1347499201,Emergency Medicine,Emergency,LOC4,Riverside Community Health,14,0.5
+PRV018,"Dr. Susan Harris, PA",1034692964,Pediatrics,Primary Care,LOC2,Westside Family Clinic,8,0.6
+PRV019,"Dr. Elizabeth White, MD",1434316805,Family Medicine,Primary Care,LOC4,Riverside Community Health,22,1.0
+PRV020,"Dr. Margaret Harris, DO",1409186441,Emergency Medicine,Emergency,LOC3,North Pavilion Outpatient,14,1.0
+PRV021,"Dr. Jennifer Rodriguez, MD",1106142582,Radiology,Diagnostic Imaging,LOC2,Westside Family Clinic,3,0.6
+PRV022,"Dr. Joseph Jackson, MD",1900621680,Psychiatry,Behavioral Health,LOC3,North Pavilion Outpatient,17,0.5
+PRV023,"Dr. Daniel Lopez, MD",1166214093,Internal Medicine,Primary Care,LOC2,Westside Family Clinic,13,1.0
+PRV024,"Dr. Christopher Thomas, MD",1959692582,Cardiology,Cardiology,LOC3,North Pavilion Outpatient,3,1.0
+PRV025,"Dr. Carlos Rodriguez, PA",1495065658,Internal Medicine,Primary Care,LOC2,Westside Family Clinic,23,1.0
+PRV026,"Dr. Aisha Miller, NP",1261140000,Pediatrics,Primary Care,LOC4,Riverside Community Health,23,0.6
+PRV027,"Dr. David Johnson, MD",1447023719,Orthopedics,Orthopedics,LOC3,North Pavilion Outpatient,29,1.0
+PRV028,"Dr. Michael Jackson, MD",1808660745,Orthopedics,Orthopedics,LOC3,North Pavilion Outpatient,19,0.8
+PRV029,"Dr. Sandra Smith, NP",1492762391,Internal Medicine,Primary Care,LOC2,Westside Family Clinic,24,0.8
+PRV030,"Dr. Christopher Brown, DO",1094694692,Orthopedics,Orthopedics,LOC2,Westside Family Clinic,21,0.8
+PRV031,"Dr. Susan Martin, MD",1179456498,Family Medicine,Primary Care,LOC4,Riverside Community Health,16,1.0
+PRV032,"Dr. John Moore, MD",1175185178,Cardiology,Cardiology,LOC3,North Pavilion Outpatient,19,0.6
+PRV033,"Dr. Wei Harris, DO",1447038151,Internal Medicine,Primary Care,LOC2,Westside Family Clinic,12,0.8
+PRV034,"Dr. James Brown, PA",1418154912,Emergency Medicine,Emergency,LOC2,Westside Family Clinic,16,1.0
+PRV035,"Dr. Robert Miller, MD",1671124039,Psychiatry,Behavioral Health,LOC1,Downtown Medical Center,16,1.0
+PRV036,"Dr. Charles Anderson, MD",1807597441,General Surgery,Surgery,LOC1,Downtown Medical Center,9,0.5
+PRV037,"Dr. Thomas Perez, MD",1284558958,Cardiology,Cardiology,LOC3,North Pavilion Outpatient,1,1.0
+PRV038,"Dr. Priya Anderson, MD",1302179328,Radiology,Diagnostic Imaging,LOC1,Downtown Medical Center,18,1.0
+PRV039,"Dr. Nancy Williams, MD",1243873250,Internal Medicine,Primary Care,LOC3,North Pavilion Outpatient,22,0.6
+PRV040,"Dr. Matthew Davis, MD",1614642827,Psychiatry,Behavioral Health,LOC4,Riverside Community Health,30,0.5
+PRV041,"Dr. Mary Brown, DO",1546803284,Pediatrics,Primary Care,LOC1,Downtown Medical Center,12,1.0
+PRV042,"Dr. Margaret Harris, MD",1202738313,Radiology,Diagnostic Imaging,LOC2,Westside Family Clinic,31,0.8

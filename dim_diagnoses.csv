@@ -1,0 +1,21 @@
+diagnosis_code,diagnosis_description,diagnosis_category
+Z00.00,Encounter for general adult medical exam,Preventive Care
+I10,Essential (primary) hypertension,Cardiovascular
+E11.9,Type 2 diabetes mellitus without complications,Endocrine
+E78.5,"Hyperlipidemia, unspecified",Cardiovascular
+J06.9,"Acute upper respiratory infection, unspecified",Respiratory
+J45.909,"Asthma, unspecified, uncomplicated",Respiratory
+M54.5,Low back pain,Musculoskeletal
+M17.9,"Osteoarthritis of knee, unspecified",Musculoskeletal
+F41.9,"Anxiety disorder, unspecified",Behavioral Health
+F32.9,"Major depressive disorder, single episode, unspecified",Behavioral Health
+N39.0,"Urinary tract infection, site not specified",Genitourinary
+K21.9,Gastro-esophageal reflux disease without esophagitis,Digestive
+R07.9,"Chest pain, unspecified",Symptoms
+G43.909,"Migraine, unspecified, not intractable",Neurological
+J20.9,"Acute bronchitis, unspecified",Respiratory
+Z34.90,"Encounter for supervision of normal pregnancy, unspecified",Women's Health
+S93.401A,"Sprain of ankle, initial encounter",Injury
+R51.9,"Headache, unspecified",Symptoms
+E03.9,"Hypothyroidism, unspecified",Endocrine
+L30.9,"Dermatitis, unspecified",Dermatologic
